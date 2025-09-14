@@ -1,2 +1,15 @@
-# OIBSIP_domain_taskno.2
-This is a terminal-based Python application designed to calculate and track Body Mass Index (BMI) for users. The program allows users to input their weight (in kilograms) and height (in meters or centimeters) and computes their BMI with accurate categorization into Underweight, Normal, Overweight, or Obese
+# Advanced Terminal BMI Calculator
+
+A terminal-based Python application to calculate BMI, track user history, and visualize BMI trends with ASCII graphs.
+
+## Features
+- Supports height input in centimeters
+- Calculates BMI and categorizes it (Underweight, Normal, Overweight, Obese)
+- Saves user history in JSON format
+- Displays ASCII trend graphs for past BMI records
+- Input validation and error handling included
+
+## Installation
+```bash
+git clone <your_repo_URL>
+cd Advanced-Python-Projects/BMI_Calculator
